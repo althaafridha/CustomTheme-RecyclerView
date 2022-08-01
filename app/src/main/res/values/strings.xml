@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="animalList">
+        <item>Kadal</item>
+        <item>Macan</item>
+        <item>Kuda</item>
+        <item>Semut</item>
+        <item>Nyamuk</item>
+        <item>Harimau</item>
+    </string-array>
+</resources>
